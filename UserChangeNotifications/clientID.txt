@@ -1,0 +1,9 @@
+Application ID : 
+8eb761d5-1766-4292-9bc6-a136f4a375f2
+
+Tenant ID :
+651d0ce8-93a6-43ef-9001-bb540ea99448
+
+Application Secret : 
+o8m8Q~S65n1pAQt.JmgxkbE94mJexpbnQ1GVLdu7
+
