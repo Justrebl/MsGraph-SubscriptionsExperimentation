@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Laboratoire\\MsGraph\\UserChangeNotifications\\GraphUserChangeApp\\GraphUserChangeApp.csproj": {}
+  },
+  "projects": {
+    "D:\\Laboratoire\\MsGraph\\UserChangeNotifications\\GraphUserChangeApp\\GraphUserChangeApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Laboratoire\\MsGraph\\UserChangeNotifications\\GraphUserChangeApp\\GraphUserChangeApp.csproj",
+        "projectName": "GraphUserChangeApp",
+        "projectPath": "D:\\Laboratoire\\MsGraph\\UserChangeNotifications\\GraphUserChangeApp\\GraphUserChangeApp.csproj",
+        "packagesPath": "C:\\Users\\justrebl\\.nuget\\packages\\",
+        "outputPath": "D:\\Laboratoire\\MsGraph\\UserChangeNotifications\\GraphUserChangeApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\justrebl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Graph": {
+              "target": "Package",
+              "version": "[4.34.0, )"
+            },
+            "Microsoft.Identity.Client": {
+              "target": "Package",
+              "version": "[4.45.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
